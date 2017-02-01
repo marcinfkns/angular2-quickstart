@@ -18,5 +18,9 @@ Or
 
 Run ```gulp dev``` and direct your browser to http://localhost:8081/index.html
 
+![screenshot](app-screenshot.png)
+
 ## Debugging
 The original Typescript source files should be displayed thanks to source mapping even after minification
+
+![screenshot](chrome-debugger-dist.png)
